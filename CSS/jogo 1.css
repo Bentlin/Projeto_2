@@ -1,0 +1,41 @@
+#btnStart {
+    width: 0px;  /* largura do botão */
+    height: 0px;  /* altura do botão */
+    position: relative;
+    top: -60px;
+    left: -567px;
+}
+
+#btnStart img {
+    width: 220px;
+    height: 65px;
+    position: relative;
+    top: -20px;
+    left: -50px;
+}
+
+#verificar {
+    width: 0px;  /* largura do botão */
+    height: 0px;  /* altura do botão */
+    position: relative;
+    top: -880px;
+    right: -230px;
+}
+
+#verificar img {
+    width: 162px;
+    height: 54px;
+    position: relative;
+    top: -20px;
+    left: -50px;
+}
+
+#lista {
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: -500px;
+    left: 900px;
+    text-align: left;
+    
+}
